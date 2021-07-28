@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Majorsoft.Blazor.Components.Toggle" Path="C:\Users\user\.nuget\packages\majorsoft.blazor.components.toggle\1.4.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor" Path="C:\Users\user\.nuget\packages\syncfusion.blazor\19.2.0.48\build\..\staticwebassets\" />
+</StaticWebAssets>

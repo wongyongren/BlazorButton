@@ -1,0 +1,41 @@
+﻿@page "/button"
+
+@using Majorsoft.Blazor.Components.Toggle
+
+<ToggleSwitch @ref="_toggleSwitch"
+              Checked="_value"
+              OnColor="@_onColor"
+              OffColor="@_offColor"
+              Width="_widht"
+              Height="_height"
+              HandleStyle="_styleType"
+              Disabled="_disabled"
+              OnToggleChanged="OnToggleSwitched">
+</ToggleSwitch>
+
+@code {
+    private ToggleSwitch _toggleSwitch;
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await _toggleSwitch.InnerElementReference.FocusAsync();
+        }
+    }
+
+    private string _onColor = "DodgerBlue";
+    private string _offColor = "DarkGray";
+    private int _widht = 50;
+    private int _height = 22;
+    private bool _value = true;
+    private bool _disabled = false;
+    private ToggleSwitchStyle _styleType = ToggleSwitchStyle.Circle;
+
+    private ElementReference log1;
+    private string _swithch1Log;
+
+    private async Task OnToggleSwitched(bool val)
+    {
+        _value = val;
+    }
+}
