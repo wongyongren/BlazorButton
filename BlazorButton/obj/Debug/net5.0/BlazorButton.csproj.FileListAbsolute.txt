@@ -75,3 +75,6 @@ C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\BlazorButt
 C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\BlazorButton.genruntimeconfig.cache
 C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\RazorDeclaration\Pages\Button1.razor.g.cs
 C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\Razor\Pages\Button1.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\RazorDeclaration\Pages\Button2.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\Razor\Pages\Button2.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\scopedcss\Pages\Button2.razor.rz.scp.css
