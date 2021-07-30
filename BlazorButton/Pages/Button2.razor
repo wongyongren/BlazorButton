@@ -1,16 +1,19 @@
 ﻿@page "/button2"
 
-<h3>Button2</h3>
-<h1>@checkedValue</h1>
+<p>Child Message: <b>@ChildMessage</b></p>
 
 <div class="toggle-wrapper">
     <label class="toggle">
-        <input type="checkbox"
-               @bind="checkedValue" />
+        <input type="checkbox" checked="@ChildMessage" />
         <span class="toggler round"></span>
     </label>
 </div>
 
 @code {
-    private Boolean checkedValue = true;
+    [Parameter]
+    public bool ChildMessage { get; set; }
+
+    [Parameter]
+    public EventCallback<bool> ChildMessageChanged { get; set; }
+
 }

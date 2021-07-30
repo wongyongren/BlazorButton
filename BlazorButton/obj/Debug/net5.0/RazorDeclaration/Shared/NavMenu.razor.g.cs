@@ -97,7 +97,7 @@ using Syncfusion.Blazor.Buttons;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 33 "C:\Users\user\source\repos\BlazorButton\BlazorButton\Shared\NavMenu.razor"
+#line 28 "C:\Users\user\source\repos\BlazorButton\BlazorButton\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
