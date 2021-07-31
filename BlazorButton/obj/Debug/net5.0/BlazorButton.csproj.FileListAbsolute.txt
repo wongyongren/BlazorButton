@@ -83,3 +83,13 @@ C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\Razor\Page
 C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\scopedcss\Pages\Display.razor.rz.scp.css
 C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\RazorDeclaration\Pages\Button3.razor.g.cs
 C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\Razor\Pages\Button3.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\RazorDeclaration\Shared\CascadingChild.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\Razor\Shared\CascadingChild.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\RazorDeclaration\Pages\ExampleTabSet.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\RazorDeclaration\Shared\Tab.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\RazorDeclaration\Shared\TabSet.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\Razor\Pages\ExampleTabSet.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\Razor\Shared\Tab.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\Razor\Shared\TabSet.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\RazorDeclaration\Pages\CascadingParent.razor.g.cs
+C:\Users\user\source\repos\BlazorButton\BlazorButton\obj\Debug\net5.0\Razor\Pages\CascadingParent.razor.g.cs

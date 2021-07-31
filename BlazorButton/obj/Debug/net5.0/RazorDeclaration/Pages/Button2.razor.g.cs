@@ -100,11 +100,8 @@ using Syncfusion.Blazor.Buttons;
 #nullable restore
 #line 12 "C:\Users\user\source\repos\BlazorButton\BlazorButton\Pages\Button2.razor"
        
-    [Parameter]
-    public bool ChildMessage { get; set; }
+    [CascadingParameter] bool ChildMessage { get; set; }
 
-    [Parameter]
-    public EventCallback<bool> ChildMessageChanged { get; set; }
 
 
 #line default

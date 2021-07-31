@@ -98,23 +98,10 @@ using Syncfusion.Blazor.Buttons;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 16 "C:\Users\user\source\repos\BlazorButton\BlazorButton\Pages\Display.razor"
+#line 21 "C:\Users\user\source\repos\BlazorButton\BlazorButton\Pages\Display.razor"
        
+    bool boolvalue = false;
 
-    public bool boolvalue { get; set; }
-    public string val;
-    void ToggleCheckbox()
-    {
-        if (boolvalue)
-        {
-            val = "unchecked";
-        }
-        else
-        {
-            val = "checked";
-        }
-        boolvalue = !boolvalue;
-    }
 
 #line default
 #line hidden
